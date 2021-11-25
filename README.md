@@ -17,3 +17,5 @@ Você pode acessar um protótipo no link abaixo:
 https://www.figma.com/file/WatDxtKl7g54QxhDi9qdbq/App-Receitas?node-id=0%3A1
 
 ## Resultado 
+
+<img src="https://github.com/luanamonero/project-app-receitas/blob/main/src/images/app.gif" width="40%"/>
